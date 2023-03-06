@@ -28,3 +28,7 @@ https://youtu.be/41zUtzAfWyQ
 CONCLUSION:
 
 Al realizar este informe pude aprender más el uso de capacitores e inductores, ya que con ello aprendí a identificar de mejor manera cómo influye la frecuencia en los cambios de sus valores, entendiendo de mejor manera el uso y lectura de ondas seno. Además de ello fue importante la realización y desarrollo de los ejercicios propuestos en los capitulos para llevar y reforzar los temas tratados en clase de mejor manera.
+
+BIBLIOGRAFIA:
+
+* Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson**
